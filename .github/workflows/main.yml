@@ -2,7 +2,7 @@ name: my-front
 on:
   push:
     branches:
-      - mai
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
